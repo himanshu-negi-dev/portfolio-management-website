@@ -69,8 +69,6 @@ footer {
     padding: 12px;
 }
 
-/* ---------------- RESPONSIVE DESIGN ---------------- */
-
 /* Tablets */
 @media (max-width: 768px) {
     header h1 {
@@ -109,4 +107,5 @@ footer {
     section {
         padding: 15px;
     }
+
 }
